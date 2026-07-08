@@ -152,6 +152,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Automated extraction, transformation, and analysis of information from documents to make their content usable by software systems.
 
 - <img src="https://avatars.githubusercontent.com/u/166614754?s=200&v=4" height="14"/> [Adeu](https://github.com/dealfluence/adeu) - Automated DOCX Redlining Engine and "Virtual DOM" for Microsoft Word. Enables agents to read, diff, edit, and negotiate contracts locally or via live COM interop.
+- <img src="https://avatars.githubusercontent.com/u/206448049?s=200&v=4" height="14"/> [PDF Reader MCP](https://github.com/SylphxAI/pdf-reader-mcp)<sup><sup>⭐</sup></sup> - Evidence-first PDF intelligence for AI agents: one `read_pdf` call returns markdown, tables, trust signals, and citeable source evidence (page + bbox). Local-first. Works with Claude, Cursor, VS Code, and any MCP client.
 
 
 <br />
